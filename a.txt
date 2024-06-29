@@ -1,0 +1,9 @@
+professors.put("Prof A", Arrays.asList("Math", "Physics", "Chemistry", "Data Structures"));
+        professors.put("Prof B", Arrays.asList("Physics", "Biology", "Algorithms", "Botony"));
+        professors.put("Prof C", Arrays.asList("Math", "English", "History", "Finance"));
+        professors.put("Prof D", Arrays.asList("Computer Science", "Math", "Linear algebra"));
+        professors.put("Prof E", Arrays.asList("History", "Geography"));
+
+        List<String> subjects = Arrays.asList("Math", "Physics", "Chemistry", "Biology", "History", "English",
+                "Computer Science", "Geography", "Data Structures", "Algorithms", "Botony", "Finance",
+                "Linear algebra");
